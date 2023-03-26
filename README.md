@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurfernades&show_icons=true&theme=dracula"/>
 <img height="129.80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurfernades&layout=compact&theme=dark"/>
 
-### Linnguagens de interesse:
+### Languages of interest:
 <br><br/>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,3 +16,4 @@
 
 
 <img src="https://em-content.zobj.net/thumbs/160/apple/325/flag-brazil_1f1e7-1f1f7.png">
+<strong>my beautiful country</strong>
