@@ -15,4 +15,4 @@
 
 
 <img src="https://em-content.zobj.net/thumbs/160/apple/325/flag-brazil_1f1e7-1f1f7.png">
-<strong>my beautiful country</strong>
+<div align = "left"><strong>my beautiful country</strong></div>
