@@ -1,4 +1,4 @@
-![welcome](https://fontmeme.com/permalink/230327/df9c2c78b582f4288088edef053fa7eb.png)
+<a href="https://fontmeme.com/undertale-logo-font/"><img src="https://fontmeme.com/permalink/230327/0c61aa23219402d82dd30e031cc82d75.png" alt="undertale-logo-font" border="0"></a>
 #### Currently studying Systems Analysis and Development at <em> Vianna Júnior Institute </em>. 👨‍🎓
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fernandes-720868180/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurfernandes.jpg/)[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Arthurfernades)
 
