@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'stadium';
+    src: url(../font/stadium/Stadium.ttf);
+}
+
+.bemvindo{
+    font-family: 'stadium';
+    font-size: 60px;
+}
+
+.sans{
+    width: 50px;
+    padding-left: 10px;
+}
