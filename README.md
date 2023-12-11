@@ -10,9 +10,6 @@
         <a href="//www.linkedin.com/in/arthur-fernandes-720868180/"><img hspace="3" src="https://user-images.githubusercontent.com/125480129/228417417-36e3fecf-3b03-4a33-98cd-ea9757214d97.png"></a>
         <a href="//gitlab.com/Arthurfernades"><img hspace="3" src="https://user-images.githubusercontent.com/125480129/228417521-e42a851e-c1c2-4aa7-bb0a-4445a29b4918.png"></a>
         <a href="//twitter.com/Arthurfrnandes"><img hspace="3" src="https://user-images.githubusercontent.com/125480129/228682382-a465c755-b6b5-493e-a4c1-ab8778f1cabd.png"></a>
-        <br>
-        <br>
-        <img src = "https://user-images.githubusercontent.com/125480129/228686399-6e635240-4ad5-424e-9741-04c36f5a6e43.png"></img>
     </div>     
         <div align = "left">
             <h5>Currently studying Systems Analysis and Development at <em> Vianna Júnior Institute </em>. 👨‍🎓</h3>
