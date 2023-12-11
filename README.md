@@ -13,13 +13,7 @@
         <br>
         <br>
         <img src = "https://user-images.githubusercontent.com/125480129/228686399-6e635240-4ad5-424e-9741-04c36f5a6e43.png"></img>
-    </div>
-    <div align = "center">
-        <img src = "https://user-images.githubusercontent.com/125480129/228687564-5b719f08-1212-4b6a-b83a-e89dc35e9023.png" heigth = "40" width = "40" hspace = "8"></img>
-        <img src = "https://user-images.githubusercontent.com/125480129/228687812-52b54ecd-e105-4b88-ba60-a35f98047656.png" heigth = "40" width = "40" hspace = "8"></img>
-        <img src = "https://user-images.githubusercontent.com/125480129/228687846-e7177128-5248-443a-ad4f-215339ec477a.png" heigth = "40" width = "40"></img>
-        <img src = "https://user-images.githubusercontent.com/125480129/228687882-77582d7f-e871-43c9-86de-ac50ee35e4b2.png" heigth = "50" width = "50"></img>
-    </div>      
+    </div>     
         <div align = "left">
             <h5>Currently studying Systems Analysis and Development at <em> Vianna Júnior Institute </em>. 👨‍🎓</h3>
         </div>
